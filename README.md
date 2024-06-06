@@ -1,1 +1,1 @@
-# Semantic-Segmentation-of-Underwater-Im-using-YOLOv8
+# Semantic-Segmentation-of-Underwater-Ima-using-YOLOv8
